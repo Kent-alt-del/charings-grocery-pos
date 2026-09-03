@@ -1,5 +1,5 @@
 /** @import must precede all other statements */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Roboto:wght@400;500;700&display=swap");
 
 @import "tailwindcss";
 
@@ -58,6 +58,20 @@
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    --pos-bg: 210 20% 98%;
+    --pos-sidebar: 200 18% 26%;
+    --pos-sidebar-foot: 200 19% 18%;
+    --pos-primary: 123 46% 34%;
+    --pos-dark: 200 19% 18%;
+    --pos-muted: 199 18% 40%;
+    --pos-subtle: 200 16% 62%;
+    --pos-border: 198 16% 84%;
+    --pos-green-soft: 125 40% 94%;
+    --pos-blue-soft: 187 55% 93%;
+    --pos-red-soft: 351 100% 96%;
+    --pos-red: 0 66% 47%;
+    --pos-blue: 201 98% 41%;
   }
 
   .dark {
