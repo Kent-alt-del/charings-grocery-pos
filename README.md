@@ -1,22 +1,30 @@
 # Web-Based Point of Sales and Inventory Management System for Charing's Grocery Store
 
+## Live Application Link
+Click the link below to evaluate the functional system live:
+* **Live System Demo:** (https://famous-dusk-54d4e5.netlify.app/)
+
+---
+
 ## Project Description
-This project is a web-based Point of Sales (POS) and Inventory Management System designed specifically for Charing's Grocery Store. It features a digital dashboard for tracking daily sales, managing stock alerts, and viewing recent transaction histories to improve store efficiency.
+This project is a modern, web-based Point of Sales (POS) and Inventory Management System designed specifically for Charing's Grocery Store. It provides an intuitive digital dashboard for tracking daily store sales, displaying stock alerts, monitoring transaction logs, and managing cashier operations.
+
+---
 
 ## Technology Used
-* **Frontend:** HTML5
-* **Styling:** Tailwind CSS, PostCSS
+* **Markup & Structure:** HTML5 (`index.html`)
+* **Styling Framework:** Tailwind CSS, PostCSS
 * **Build Tool & Logic:** Vite, TypeScript
-* **UI/UX Design:** Figma (Exported via Builder.io)
+* **UI/UX Source:** Figma (Exported via Builder.io)
+* **Hosting Platform:** Netlify
 
-## Setup Instructions
-*Prerequisite: [Node.js](https://nodejs.org/) must be installed.*
+---
 
-1. Download or clone this repository to your local computer.
-2. Open the project folder in your terminal / Command Prompt.
-3. Run `npm install` to install required dependencies.
-4. Run `npm run dev` to start the local development server.
-5. Open the provided local URL (e.g., http://localhost:5173) in your web browser.
+## Instructions for Evaluator
+1. Click the **Live System Demo** link provided above.
+2. The POS dashboard will open immediately in your web browser for testing. No installation, setup, or local configuration is required.
+
+---
 
 ## Group Members (Code Cartel)
 * **Project Manager:** Jediah Peniel B. Loremia
