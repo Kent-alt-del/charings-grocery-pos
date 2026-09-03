@@ -10,11 +10,13 @@ This project is a web-based Point of Sales (POS) and Inventory Management System
 * **UI/UX Design:** Figma (Exported via Builder.io)
 
 ## Setup Instructions
+*Prerequisite: [Node.js](https://nodejs.org/) must be installed.*
+
 1. Download or clone this repository to your local computer.
-2. Open the downloaded folder in your terminal or command prompt.
-3. Run `npm install` to install all required dependencies.
+2. Open the project folder in your terminal / Command Prompt.
+3. Run `npm install` to install required dependencies.
 4. Run `npm run dev` to start the local development server.
-5. Open the provided local URL (usually http://localhost:5173) in your web browser to view the `index.html` dashboard.
+5. Open the provided local URL (e.g., http://localhost:5173) in your web browser.
 
 ## Group Members (Code Cartel)
 * **Project Manager:** Jediah Peniel B. Loremia
