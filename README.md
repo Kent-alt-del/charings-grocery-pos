@@ -2,7 +2,7 @@
 
 ## 🔴 Live Application Link
 Click the link below to evaluate the functional system live:
-* **Live System Demo:** (https://charing-insight-flow.base44.app)
+* **Live System Demo:** https://charing-insight-flow.base44.app
 
 ---
 
