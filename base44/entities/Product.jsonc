@@ -1,0 +1,75 @@
+{
+  "name": "Product",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "title": "Product Name"
+    },
+    "category": {
+      "type": "string",
+      "title": "Category",
+      "enum": [
+        "Grains & Rice",
+        "Canned Goods",
+        "Snacks",
+        "Beverages & Oil",
+        "Dairy & Eggs",
+        "Fruits",
+        "Vegetables",
+        "Snacks & Bread"
+      ]
+    },
+    "price": {
+      "type": "number",
+      "title": "Selling Price"
+    },
+    "cost_price": {
+      "type": "number",
+      "title": "Cost Price"
+    },
+    "stock_qty": {
+      "type": "number",
+      "title": "Stock Quantity",
+      "default": 0
+    },
+    "unit": {
+      "type": "string",
+      "title": "Unit of Measure",
+      "enum": [
+        "pcs",
+        "sacks",
+        "kg",
+        "doz",
+        "packs",
+        "L",
+        "boxes"
+      ]
+    },
+    "supplier": {
+      "type": "string",
+      "title": "Primary Supplier"
+    },
+    "description": {
+      "type": "string",
+      "title": "Product Description"
+    },
+    "image_url": {
+      "type": "string",
+      "title": "Product Photo",
+      "format": "url"
+    },
+    "reorder_level": {
+      "type": "number",
+      "title": "Reorder Level",
+      "default": 10
+    }
+  },
+  "required": [
+    "name",
+    "category",
+    "price",
+    "stock_qty",
+    "unit"
+  ]
+}
