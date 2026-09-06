@@ -1,0 +1,9 @@
+{
+  "name": "Figma: Code Cartel_Week4_HighFidelityDesign",
+  "site": {
+    "installCommand": "npm install",
+    "buildCommand": "npm run build",
+    "serveCommand": "npm run dev",
+    "outputDirectory": "./dist"
+  }
+}
