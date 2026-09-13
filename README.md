@@ -6,19 +6,19 @@ Click the link below to evaluate the functional system live:
 
 ---
 
-## 🚀 Current Progress (Checkpoint 1)
-**Status:** ~66% Frontend Completion
+## 🚀 Current Progress (Checkpoint 2)
+**Status:** ~80% Frontend UI Completion
 
 **Completed Screens:**
 * ✅ **Login / Sign-up:** Authentication gateway.
 * ✅ **Dashboard:** Main system overview and metrics.
 * ✅ **POS Interface:** Cashier workspace with product grid.
 * ✅ **Cart Payment Modal:** Integrated checkout flow.
+* ✅ **Inventory Management:** Full stock tracking data table.
+* ✅ **Sales History:** Transaction logs and historical data layout.
 
-**Work in Progress (Upcoming for Checkpoint 2):**
-* ⏳ Inventory Management System
-* ⏳ Sales History
-* ⏳ System Settings
+**Work in Progress (Remaining for Final Frontend Checkpoint):**
+* ⏳ System Settings UI
 
 ---
 
@@ -38,7 +38,7 @@ This project is a modern, web-based Point of Sales (POS) and Inventory Managemen
 
 ## 📋 Instructions for Evaluator
 1. Click the **Live System Demo** link provided above.
-2. The completed screens (Login, Dashboard, POS, and Cart) will open immediately in your web browser for testing via Base44. No installation, setup, or local configuration is required.
+2. The completed screens (Login, Dashboard, POS, Cart, Inventory, and Sales History) will open immediately in your web browser for testing via Base44. No installation, setup, or local configuration is required.
 
 ---
 
